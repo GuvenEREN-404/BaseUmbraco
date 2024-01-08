@@ -1,0 +1,1438 @@
+{
+  "version": 1,
+  "LastWrite": "2023-12-17T22:44:35.1015053+03:00",
+  "Items": {
+    "umb://document-type/33146c6700374308bbce8bd3c2dde1f4": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Sosyal Medya Hesap Bilgisi",
+          "udi": "umb://document-type/33146c6700374308bbce8bd3c2dde1f4",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/ca9ca5b7875d4b2180350eb9bf61e39c": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Image with Gallery",
+          "udi": "umb://document-type/ca9ca5b7875d4b2180350eb9bf61e39c",
+          "order": 500,
+          "level": 5,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Multiple Image Media Picker",
+          "udi": "umb://data-type/0e63d883b62b479988c3157f82e83ecc",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/d571c82b3d454e41830a53b7d0d5cd2a": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Yönetim Kadrosu tablo",
+          "udi": "umb://document-type/d571c82b3d454e41830a53b7d0d5cd2a",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/705f435661a1449997448891bb7bc8b1": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "İçerik Bölümü",
+          "udi": "umb://document-type/705f435661a1449997448891bb7bc8b1",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Dropdown",
+          "udi": "umb://data-type/0b6a45e744ba430d9da54e46060b9e03",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Richtext editor",
+          "udi": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Richtext editor",
+          "udi": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/cb80aa01b5ad4c60bdad3af11bdb0466": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Banner 5 Tablo",
+          "udi": "umb://document-type/cb80aa01b5ad4c60bdad3af11bdb0466",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Banner 5 Tablo - Link - Multi URL Picker",
+          "udi": "umb://data-type/6ec3b42dbbbc44e0b1422c67f09dca55",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/f0ab6cfe257e47e0b9713c6f582a8a9c": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Kalite Tablosu",
+          "udi": "umb://document-type/f0ab6cfe257e47e0b9713c6f582a8a9c",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/fc60d0a6613b4b8c9a72082bf4d44eab": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Image",
+          "udi": "umb://document-type/fc60d0a6613b4b8c9a72082bf4d44eab",
+          "order": 500,
+          "level": 5,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/20104ec872444b999b9e53601fcc7dc5": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Slayt",
+          "udi": "umb://document-type/20104ec872444b999b9e53601fcc7dc5",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Content Picker",
+          "udi": "umb://data-type/fd1e0da556064862b6795d0cf3a52a59",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/aea8f0792d654ac89b64d0f8806e15a9": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Müşteri Yorumu",
+          "udi": "umb://document-type/aea8f0792d654ac89b64d0f8806e15a9",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/03e7f802caa943c79e56db8efbcb3231": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Banner 5 tablo Rakam",
+          "udi": "umb://document-type/03e7f802caa943c79e56db8efbcb3231",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/69ef0f878fd642828daf24c74732f01a": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Base Composition",
+          "udi": "umb://document-type/69ef0f878fd642828daf24c74732f01a",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Date Picker",
+          "udi": "umb://data-type/5046194e4237453ca54715db3a07c4e1",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/ef723025a16e4245bf02103de129cebd": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Video Ekle",
+          "udi": "umb://document-type/ef723025a16e4245bf02103de129cebd",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/7dd3d78b4be740ba893302c09a870b92": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "SEO",
+          "udi": "umb://document-type/7dd3d78b4be740ba893302c09a870b92",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "SEO - SEO Açıklaması - Textarea",
+          "udi": "umb://data-type/eb1fda935c2e44e0a5b6b7a145c56796",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "SEO - Anahtar Kelimeler - Tags",
+          "udi": "umb://data-type/93a22e51525949d5a519862cc2b1a36b",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "CheckBox",
+          "udi": "umb://data-type/92897bc6a5f34ffeae27f2e7e33dda49",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "SEO - Site Haritası Önceliği - Slider",
+          "udi": "umb://data-type/2cf88a5dd76a4eb5809117296306a133",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/258fa53a14654ef0a8248cd51d116a80": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Video - PDF Ekle",
+          "udi": "umb://document-type/258fa53a14654ef0a8248cd51d116a80",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "[BlockList] Video Ekle",
+          "udi": "umb://data-type/9d8d35972eac476db914169f1eb89ed5",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "[BlockList] PDF Ekle",
+          "udi": "umb://data-type/988d60dc42ce42019bcee26e5ade7497",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/2f7deb9e56b54c0fbc3aae56214cba91": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Referesan Tablo",
+          "udi": "umb://document-type/2f7deb9e56b54c0fbc3aae56214cba91",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/c1efd861f5f64203a3f21218eccd7a21": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Content with Blocks & Preview",
+          "udi": "umb://document-type/c1efd861f5f64203a3f21218eccd7a21",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "[BlockList] İçerik Bölümü",
+          "udi": "umb://data-type/c1420006fbb5419d81a8648cdf46ce81",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/403d1c75ce4541cd96b0a2ebdbeab8b6": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Image with Banner & Gallery",
+          "udi": "umb://document-type/403d1c75ce4541cd96b0a2ebdbeab8b6",
+          "order": 500,
+          "level": 5,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Multiple Image Media Picker",
+          "udi": "umb://data-type/0e63d883b62b479988c3157f82e83ecc",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/b2e25dd1da5e4b959ec7189b5cf2595f": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "HomePage Base",
+          "udi": "umb://document-type/b2e25dd1da5e4b959ec7189b5cf2595f",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Content Picker",
+          "udi": "umb://data-type/fd1e0da556064862b6795d0cf3a52a59",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Multi URL Picker",
+          "udi": "umb://data-type/b4e3535a175347e28568602cf8cfee6f",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Multi URL Picker",
+          "udi": "umb://data-type/b4e3535a175347e28568602cf8cfee6f",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/f0f4e911f24b41868b8aeabab6458095": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Base Composition with SubTitle",
+          "udi": "umb://document-type/f0f4e911f24b41868b8aeabab6458095",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Date Picker",
+          "udi": "umb://data-type/5046194e4237453ca54715db3a07c4e1",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/6214718eb65941c2a92fae3e596cbfb5": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Image with Banner",
+          "udi": "umb://document-type/6214718eb65941c2a92fae3e596cbfb5",
+          "order": 500,
+          "level": 5,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/a81fd8c2c98c4b47a483d2dca5cf5ba4": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Company Information",
+          "udi": "umb://document-type/a81fd8c2c98c4b47a483d2dca5cf5ba4",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Label (string)",
+          "udi": "umb://data-type/f0bc4bfbb49940d6ba86058885a5178c",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "[BlockList] İletişim Bilgisi",
+          "udi": "umb://data-type/c98ef00c3ea1495bbf2ecdc9c5ab350a",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/799c421d2e424a1ebacd92d7b3a64bac": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Content - Only Preview",
+          "udi": "umb://document-type/799c421d2e424a1ebacd92d7b3a64bac",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/63cb9f69a0c946d08b8fe86cee16878b": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Content with Preview",
+          "udi": "umb://document-type/63cb9f69a0c946d08b8fe86cee16878b",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Richtext editor",
+          "udi": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/7da74692fb4b428fa9a2f605657f30ac": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "PDF Ekle",
+          "udi": "umb://document-type/7da74692fb4b428fa9a2f605657f30ac",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/732a4623d55e4d65a75c42c3677bd96a": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Content",
+          "udi": "umb://document-type/732a4623d55e4d65a75c42c3677bd96a",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Richtext editor",
+          "udi": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/48677f751f794640bc97d44f244b1d36": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Content with Blocks",
+          "udi": "umb://document-type/48677f751f794640bc97d44f244b1d36",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "[BlockList] İçerik Bölümü",
+          "udi": "umb://data-type/c1420006fbb5419d81a8648cdf46ce81",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/f798dcf7aed849a18f4b6abe858bc309": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Site",
+          "udi": "umb://document-type/f798dcf7aed849a18f4b6abe858bc309",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Site - Google Tag Manager - Head - Textarea",
+          "udi": "umb://data-type/aed50781f4b949b2afc222a676c50912",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "CheckBox",
+          "udi": "umb://data-type/92897bc6a5f34ffeae27f2e7e33dda49",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "CheckBox",
+          "udi": "umb://data-type/92897bc6a5f34ffeae27f2e7e33dda49",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Date Picker",
+          "udi": "umb://data-type/5046194e4237453ca54715db3a07c4e1",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Content Picker",
+          "udi": "umb://data-type/fd1e0da556064862b6795d0cf3a52a59",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Site - Main Schema Type - Dropdown",
+          "udi": "umb://data-type/3424fe1930f945019374be2afade25bd",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Site - Schema Price Range - Dropdown",
+          "udi": "umb://data-type/2774af78af7f4c3d8b7eee4d9a557e1d",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Multiple Image Media Picker",
+          "udi": "umb://data-type/0e63d883b62b479988c3157f82e83ecc",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/1cc1407823fe4bc8bf52d4ae7bf430a6": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Menü Öğesi",
+          "udi": "umb://document-type/1cc1407823fe4bc8bf52d4ae7bf430a6",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Content Picker",
+          "udi": "umb://data-type/fd1e0da556064862b6795d0cf3a52a59",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "CheckBox",
+          "udi": "umb://data-type/92897bc6a5f34ffeae27f2e7e33dda49",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "CheckBox",
+          "udi": "umb://data-type/92897bc6a5f34ffeae27f2e7e33dda49",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/5c4a079a10754c7c975e6bcede8642da": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "İş Ortağı Bilgisi",
+          "udi": "umb://document-type/5c4a079a10754c7c975e6bcede8642da",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Image Media Picker",
+          "udi": "umb://data-type/ad9f0cf2bda245d59ea1a63cfc873fd3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/676e28e86af94bc0a6680f5c2652c9a1": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "İletişim Bilgisi",
+          "udi": "umb://document-type/676e28e86af94bc0a6680f5c2652c9a1",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "İletişim Bilgisi - Adres Satırları - Repeatable textstrings",
+          "udi": "umb://data-type/bd0573ad198f417b92d031f8243dadbd",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "İletişim Bilgisi - Posta Kodu - Numeric",
+          "udi": "umb://data-type/0a85f09787ef4e73a940d84fe3a8703c",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "İletişim Bilgisi - Telefonlar - Repeatable textstrings",
+          "udi": "umb://data-type/a7fb448dfda644198a3d3fc800322907",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "İletişim Bilgisi - GSM - Repeatable textstrings",
+          "udi": "umb://data-type/2cf6e984b7094af1a73a573a7d651fe1",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "İletişim Bilgisi - Faks Numaraları - Repeatable textstrings",
+          "udi": "umb://data-type/0ca598729704452a93012216895d196d",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "İletişim Bilgisi - E-Posta Adresleri - Repeatable textstrings",
+          "udi": "umb://data-type/070acd7ccd9c4ec2bf45c74252790cc3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "İletişim Bilgisi - Web Sitesi Adresleri - Repeatable textstrings",
+          "udi": "umb://data-type/18aef6afa2534790819c6603f153de81",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textarea",
+          "udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/20a39aa7c6d6449c82d0c94484020c1e": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Social Media Information",
+          "udi": "umb://document-type/20a39aa7c6d6449c82d0c94484020c1e",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "[BlockList] Sosyal Medya Hesap Bilgisi",
+          "udi": "umb://data-type/d479a64efe4b4dacaa7aea5edb3736e4",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    },
+    "umb://document-type/b010f84f58764f40a2d41a379f703f30": {
+      "CachedFlags": 958,
+      "Dependencies": [
+        {
+          "name": "Advanced Settings",
+          "udi": "umb://document-type/b010f84f58764f40a2d41a379f703f30",
+          "order": 500,
+          "level": 4,
+          "mode": 0,
+          "flags": 956
+        },
+        {
+          "name": "Content Picker",
+          "udi": "umb://data-type/fd1e0da556064862b6795d0cf3a52a59",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        },
+        {
+          "name": "Textstring",
+          "udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "order": 200,
+          "level": 1,
+          "mode": 0,
+          "flags": 8
+        }
+      ]
+    }
+  }
+}

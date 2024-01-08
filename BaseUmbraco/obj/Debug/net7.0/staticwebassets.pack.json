@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\guven\\source\\repos\\BaseUmbraco\\BaseUmbraco\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BaseUmbraco.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BaseUmbraco.props",
+      "PackagePath": "build\\BaseUmbraco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BaseUmbraco.props",
+      "PackagePath": "buildMultiTargeting\\BaseUmbraco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BaseUmbraco.props",
+      "PackagePath": "buildTransitive\\BaseUmbraco.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

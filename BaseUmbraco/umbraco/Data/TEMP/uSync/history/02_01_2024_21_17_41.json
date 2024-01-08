@@ -1,0 +1,66 @@
+{
+  "actions": [
+    {
+      "handlerAlias": "uSync.PeopleEdition.Handlers.UserHandler",
+      "success": false,
+      "itemType": "Umbraco.Cms.Core.Models.Membership.IUser",
+      "message": "Unlicenced, limited to 10 Users",
+      "exception": {
+        "ClassName": "System.Exception",
+        "Message": "Unlicenced",
+        "Data": {},
+        "InnerException": null,
+        "HelpURL": null,
+        "StackTraceString": null,
+        "RemoteStackTraceString": null,
+        "RemoteStackIndex": 0,
+        "ExceptionMethod": null,
+        "HResult": -2146233079,
+        "Source": null,
+        "WatsonBuckets": null
+      },
+      "change": "Information",
+      "fileName": "",
+      "name": "Users",
+      "path": null,
+      "requiresPostProcessing": false,
+      "detailMessage": null,
+      "details": null,
+      "key": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+      "handlerAlias": "uSync.PeopleEdition.Handlers.MemberHandler",
+      "success": false,
+      "itemType": "Umbraco.Cms.Core.Models.IMember",
+      "message": "Unlicenced, limited to 10 members",
+      "exception": {
+        "ClassName": "System.Exception",
+        "Message": "Unlicenced",
+        "Data": {},
+        "InnerException": null,
+        "HelpURL": null,
+        "StackTraceString": null,
+        "RemoteStackTraceString": null,
+        "RemoteStackIndex": 0,
+        "ExceptionMethod": null,
+        "HResult": -2146233079,
+        "Source": null,
+        "WatsonBuckets": null
+      },
+      "change": "Information",
+      "fileName": "",
+      "name": "Members",
+      "path": null,
+      "requiresPostProcessing": false,
+      "detailMessage": null,
+      "details": null,
+      "key": "00000000-0000-0000-0000-000000000000"
+    }
+  ],
+  "date": "2024-01-02T21:17:41.6739684+03:00",
+  "username": "base@gmail.com",
+  "method": "Import",
+  "filePath": null,
+  "changes": 2,
+  "total": 106
+}
